@@ -1,0 +1,112 @@
+:host { 
+  display: contents; 
+}
+.login-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+  justify-content: flex-start;
+  background-color: var(--dl-color-deepsleeplospec-15);
+}
+.login-container1 {
+  width: 100%;
+  height: 309px;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+.login-text {
+  padding: var(--dl-space-space-unit);
+}
+.login-container2 {
+  width: auto;
+  height: 170px;
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+}
+.login-container3 {
+  flex: 0 0 auto;
+  width: 200px;
+  height: var(--dl-size-size-large);
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.login-text1 {
+  width: auto;
+  height: 100%;
+  align-self: flex-start;
+  text-align: center;
+  line-height: auto;
+  padding-top: var(--dl-space-space-unit);
+  text-transform: lowercase;
+}
+.login-text2 {
+  width: auto;
+  height: 100%;
+  align-self: flex-start;
+  text-align: center;
+  line-height: auto;
+  padding-top: var(--dl-space-space-unit);
+  text-transform: lowercase;
+}
+.login-text3 {
+  width: auto;
+  height: 100%;
+  align-self: flex-start;
+  text-align: center;
+  line-height: auto;
+  padding-top: var(--dl-space-space-unit);
+  text-transform: lowercase;
+}
+.login-text4 {
+  width: auto;
+  height: 100%;
+  align-self: flex-start;
+  text-align: center;
+  line-height: auto;
+  padding-top: var(--dl-space-space-unit);
+  text-transform: lowercase;
+}
+.login-container4 {
+  flex: 0 0 auto;
+  width: 200px;
+  height: var(--dl-size-size-large);
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.login-textinput {
+  width: 100%;
+  height: 100%;
+  padding: var(--dl-space-space-halfunit);
+  align-self: center;
+}
+.login-textinput1 {
+  width: 100%;
+  height: 100%;
+  padding: var(--dl-space-space-halfunit);
+  align-self: center;
+}
+.login-textinput2 {
+  width: 100%;
+  height: 100%;
+  padding: var(--dl-space-space-halfunit);
+  align-self: center;
+}
+.login-textinput3 {
+  width: 100%;
+  height: 100%;
+  padding: var(--dl-space-space-halfunit);
+  align-self: center;
+}
+.login-button {
+  color: var(--dl-color-deepsleeplospec-15);
+  background-color: var(--dl-color-deepsleeplospec-2);
+}
